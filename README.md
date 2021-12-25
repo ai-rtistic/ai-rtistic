@@ -41,18 +41,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 <br />
 
----
 
-### 📚블로그 포스트
-<!-- BLOG-POST-LIST:START -->
-- [[codeit - 컴퓨터 개론] 프로그래밍 언어 이해하기 &lpar;Part. 2&rpar;](https://sanghyuk.dev/codeit/5/)
-- [객체 지향의 장점과 단점](https://sanghyuk.dev/development/2/)
-- [[CHAPTER 9] 강한 제품팀의 원칙](https://sanghyuk.dev/productmanager/12/)
-- [[CHAPTER 8-1] 최소 기능 제품&lpar;MVP&rpar;](https://sanghyuk.dev/productmanager/11/)
-<!-- BLOG-POST-LIST:END -->
-➡️ [블로그에서 보기](https://sanghyuk.dev/)
-
----
 ### 📊깃허브 스탯
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=ai-rtistic&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=prs,issues)
+
+
+---
+
+### 📚블로그
+
+
+---
