@@ -57,4 +57,6 @@ AI 에 대해 공부한 내용과 수행한 프로젝트를 개인 블로그에 
 
 <a href="https://ai-rtistic-blog.netlify.app/"><img src="https://user-images.githubusercontent.com/84179578/147397915-22926c5f-04e1-4d48-8e61-a2dcc34de62e.png"/>
 
+<a href="https://ai-rtistic-blog.netlify.app/"><img src="https://user-images.githubusercontent.com/84179578/147398167-cd7ab300-680d-4c44-b3b0-8975ba71e9a8.png"/>
+ 
 ---
