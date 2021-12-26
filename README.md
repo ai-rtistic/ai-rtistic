@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 ### Contact
 
-<a href="https://sanghyuk.dev/"><img src="https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Jekyll&logoColor=white&link=https://sanghyuk.dev/"/></a>
-<a href="https://www.linkedin.com/in/sanghyuk-lee/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sanghyuk-lee/"/></a>
-<a href="https://www.instagram.com/sanghyuk.e/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sanghyuk.e/"/></a>
-<a href="mailto:sanghyuk.eee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanghyuk.eee@gmail.com"/></a>
+<a href="https://ai-rtistic-blog.netlify.app/"><img src="https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Jekyll&logoColor=white&link=https://ai-rtistic-blog.netlify.app/"/></a>
+<a href="https://www.linkedin.com/in/jaejun-lee-2a192120b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jaejun-lee-2a192120b/"/></a>
+<a href="https://www.instagram.com/joon_dot_com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joon_dot_com/"/></a>
+<a href="mailto:jaejunlee9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaejunlee9@gmail.com"/></a>
 
 ### Languages and Tools
 
