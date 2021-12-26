@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📱 AI 혁신학교 AIFFEL 에서 퍼실리테이터로 활동하고 있습니다.
 - 💡 AI, ML, DL, Data Science 에 대해 전반적으로 공부하고 있습니다. 그 중 Computer Vision 분야에 관심이 있습니다.
-- 🤓 새로운 것을 배우고 실생활에 적용하는 것을 좋아합니다.
+- 🤓 새로운 것을 배우고 실생활에 적용하는 것에 자신이 있습니다.
 
 
 ### Contact
