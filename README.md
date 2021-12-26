@@ -53,5 +53,6 @@ Here are some ideas to get you started:
 
 ### 📚블로그
 
+<a href="https://ai-rtistic-blog.netlify.app/"><img src="https://user-images.githubusercontent.com/84179578/147397915-22926c5f-04e1-4d48-8e61-a2dcc34de62e.png"/>
 
 ---
