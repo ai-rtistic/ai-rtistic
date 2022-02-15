@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### Contact
 
-<a href="https://ai-rtistic-blog.netlify.app/"><img src="https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Jekyll&logoColor=white&link=https://ai-rtistic-blog.netlify.app/"/></a>
+<a href="https://ai-rtistic-blog.netlify.app/"><img src="https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Jekyll&logoColor=white&link=https://ai-rtistic.ml/"/></a>
 <a href="https://www.linkedin.com/in/jaejun-lee-2a192120b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jaejun-lee-2a192120b/"/></a>
 <a href="https://www.instagram.com/joon_dot_com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joon_dot_com/"/></a>
 <a href="mailto:jaejunlee9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaejunlee9@gmail.com"/></a>
@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 AI 에 대해 공부한 내용과 수행한 프로젝트를 개인 블로그에 정리하고 있습니다.
 
 
-<a href="https://ai-rtistic-blog.netlify.app/"><img src="https://user-images.githubusercontent.com/84179578/147398167-cd7ab300-680d-4c44-b3b0-8975ba71e9a8.png"/>
+<a href="https://ai-rtistic.ml/"><img src="https://user-images.githubusercontent.com/84179578/147398167-cd7ab300-680d-4c44-b3b0-8975ba71e9a8.png"/>
  
 ---
