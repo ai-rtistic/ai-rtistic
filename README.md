@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 # 🧑🏻‍💻안녕하세요. 이재준입니다! <a href="https://github.com/ai-rtitstic"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
-- 📱 AI 혁신학교 AIFFEL 에서 퍼실리테이터로 활동하고 있습니다.
-- 💡 AI, ML, DL, Data Science 에 대해 전반적으로 공부하고 있습니다. 그 중 Computer Vision 분야에 관심이 있습니다.
-- 🤓 새로운 것을 배우고 실생활에 적용하는 것에 자신이 있습니다.
 
 
 ### Contact
